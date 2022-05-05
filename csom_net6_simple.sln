@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{B2903C9D-CB00-4BCE-AB17-2992DA700500}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sp_Csom_Net6.ConsoleApp", "src\Sp_Csom_Net6.ConsoleApp\Sp_Csom_Net6.ConsoleApp.csproj", "{97529735-0C60-4690-B501-783E7A3E0EFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97529735-0C60-4690-B501-783E7A3E0EFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97529735-0C60-4690-B501-783E7A3E0EFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97529735-0C60-4690-B501-783E7A3E0EFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97529735-0C60-4690-B501-783E7A3E0EFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{97529735-0C60-4690-B501-783E7A3E0EFF} = {B2903C9D-CB00-4BCE-AB17-2992DA700500}
+	EndGlobalSection
+EndGlobal
